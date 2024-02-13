@@ -1,0 +1,30 @@
+_repo: Mikko-Tiukkatuuli-b-Kertomus-koulupojasta_72857
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Andelin, Selma
+    gutenberg_agent_id: '56837'
+    url: http://www.gutenberg.org/2009/agents/56837
+creator:
+  author:
+    agent_name: Lie, Bernt
+    gutenberg_agent_id: '56836'
+    url: http://www.gutenberg.org/2009/agents/56836
+description: ''
+gutenberg_issued: '2024-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72857'
+language: fi
+pgterms:marc905: 20240129004444lie
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aTampere :$bWesanderin Kirjakauppa, Arnold Öhrnberg, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Mikko Tiukkatuuli : $b Kertomus koulupojasta'
+url: http://www.gutenberg.org/ebooks/72857
