@@ -5,12 +5,17 @@ contributor:
     agent_name: Andelin, Selma
     gutenberg_agent_id: '56837'
     url: http://www.gutenberg.org/2009/agents/56837
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lie, Bernt
     gutenberg_agent_id: '56836'
     url: http://www.gutenberg.org/2009/agents/56836
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72857#Mikko-Tiukkatuuli-b-Kertomus-koulupojasta
 gutenberg_issued: '2024-02-02'
 gutenberg_type: Text
 identifiers:
